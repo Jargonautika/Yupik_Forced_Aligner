@@ -1,0 +1,20 @@
+ESSWYI St. Lawrence Island Yupik
+Number of chapters 260
+Pass 0: number of utterances 8560
+Pass 0: number of utterances without nan 7037
+13:41:33 or 13.69 hours or 821.57 minutes or 49293 seconds
+Avg. likelihood: (23) -32.4383 0.00396613
+Accepted sentences are: 5755 / 5982
+MCD  mean 5.828041 std 2.538286 var 6.442895 n 974429
+Pass 1: number of utterances 12827
+21:26:12 or 21.44 hours or 1286.20 minutes or 77172 seconds
+Avg. likelihood: (19) -32.8113 -0.0153423
+Accepted sentences are: 11921 / 12291
+MCD  mean 5.788038 std 2.531785 var 6.409933 n 1509598
+Pass 1: number of utterances without nan 11108
+RFS: number of utterances 2000
+03:46:35 or 3.78 hours or 226.59 minutes or 13595 seconds
+Avg. likelihood: (25) -31.667 0.00371049
+Accepted sentences are: 1996 / 2000
+v_rfs/mcd-base.out:MCD  mean 4.680557 std 1.902622 var 3.619970 n 257963
+v_rfs/mcd-rf3.out:MCD  mean 4.580537 std 1.807691 var 3.267747 n 257963
